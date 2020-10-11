@@ -1,6 +1,6 @@
-public class tariffs {
-    String tariffName;
-    double numberOfMinutes;
+public class Tariff {
+    String Name;
+    int numberOfMinutes;
     String unlimitedForTele2;
     double internetTraffic;
     String unlimitedVk;
